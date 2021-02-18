@@ -4,8 +4,10 @@ using System.Threading;
 using System.Windows.Forms;
 using Timer = System.Threading.Timer;
 
-namespace VanillaRat.Classes
+namespace JANA VIKAS KENDRA.Classes
 {
+
+
     //BY DMITRYG - STACKOVERFLOW
     public class AutoClosingMessageBox
     {
