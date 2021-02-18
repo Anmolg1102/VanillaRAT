@@ -1,4 +1,4 @@
-﻿namespace VanillaRat.Forms.Controls
+﻿namespace JANA VIKAS KENDRA.Forms.Controls
 {
     partial class FlatPanel
     {
